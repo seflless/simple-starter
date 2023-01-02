@@ -27,6 +27,7 @@ This is a starter project for publishing a simple Typescript module.
 1. To Test
    ```bash
    yarn test
+   # TODO: Add support for watching/rerunning tests. Check out vitest?
    ```
 1. To publish (dry-run)
    ```bash
