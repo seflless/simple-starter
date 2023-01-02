@@ -33,7 +33,15 @@ This is a starter project for publishing a simple Typescript module.
    npm pack --dry-run
    ```
 1. To publish
-   - **TODO**: Add instructions
+   ```bash
+   npm version patch|minor|major
+   npm publish
+   # Push new version tag to git
+   git push --tags
+   # Go to your repo's tags page and manually create release notes using the new tag
+     # Eg. https://github.com/seflless/simple-starter/tags
+   # TODO: Add more mature tooling for automated-testing, publishing, and making release notes.
+   ```
 
 ### Warning
 
