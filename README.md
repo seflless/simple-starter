@@ -1,6 +1,6 @@
 # Simple Starter
 
-This is a starter project for publishing a simple NPM module.
+This is a starter project for publishing a simple Typescript module.
 
 ## Features
 
