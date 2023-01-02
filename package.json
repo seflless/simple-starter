@@ -1,6 +1,6 @@
 {
   "name": "simple-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a starter project for publishing a simple Typescript module",
   "author": "Francois Laberge",
   "license": "MIT",
